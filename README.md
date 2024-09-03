@@ -86,5 +86,5 @@ This project is licensed under the [MIT License](LICENSE).
 ## Author
 - <ins><b>©2024 Vipin Gautam. All rights reserved</b></ins>
 - <b>[LinkedIn](https://www.linkedin.com/in/vipingautam07/)</b>
-- <b>[Tushar-Aggarwal.com](https://www.vipingauta.vercel.app/)</b>
+- <b>[Vipin Gautam.com](https://www.vipingauta.vercel.app/)</b>
 
